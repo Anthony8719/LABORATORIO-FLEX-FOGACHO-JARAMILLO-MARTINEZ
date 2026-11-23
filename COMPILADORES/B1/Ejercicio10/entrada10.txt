@@ -1,0 +1,5 @@
+nombre@dominio.com
+domenica.martinez@epn.edu.ec
+usuario_123@empresa.org
+correo-invalido@dominio
+@sinusuario.com
