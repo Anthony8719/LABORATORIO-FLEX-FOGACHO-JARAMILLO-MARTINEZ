@@ -1,0 +1,4 @@
+int edad 25
+if contador1
+else
+while numero_2 100
