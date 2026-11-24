@@ -1,0 +1,4 @@
+Binario: 1010             Decimal: 10
+Binario: 1101             Decimal: 13
+Binario: 10               Decimal: 2
+Binario: 111              Decimal: 7

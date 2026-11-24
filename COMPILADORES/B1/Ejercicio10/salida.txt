@@ -1,0 +1,5 @@
+TOKEN VALIDO (Correo): nombre@dominio.com
+TOKEN VALIDO (Correo): domenica.martinez@epn.edu.ec
+TOKEN VALIDO (Correo): usuario_123@empresa.org
+Token no reconocido: correo-invalido@dominio
+Token no reconocido: @sinusuario.com
