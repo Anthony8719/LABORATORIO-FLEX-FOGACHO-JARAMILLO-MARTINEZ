@@ -1,0 +1,3 @@
+Hola, hasta que no nos digan que Comando recibido
+ no nos vamos. Hasta que no nos digan Comando inicio ejecutando
+, no iniciamos.
