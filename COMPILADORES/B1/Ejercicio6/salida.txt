@@ -1,0 +1,10 @@
+Ingrese el codigo a analizar:
+RESERVADA: int
+IDENTIFICADOR: edad
+ENTERO: 25
+RESERVADA: if
+IDENTIFICADOR: contador1
+RESERVADA: else
+RESERVADA: while
+IDENTIFICADOR: numero_2
+ENTERO: 100
