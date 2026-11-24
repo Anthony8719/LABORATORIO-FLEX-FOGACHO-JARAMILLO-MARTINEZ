@@ -443,8 +443,8 @@ int yy_flex_debug = 0;
 #define YY_MORE_ADJ 0
 #define YY_RESTORE_YY_MORE_OFFSET
 char *yytext;
-#line 1 "ej11.l"
-#line 2 "ej11.l"
+#line 1 "Once.l"
+#line 2 "Once.l"
 #include <stdio.h>
 #include <stdlib.h>
 #line 451 "lex.yy.c"
@@ -665,7 +665,7 @@ YY_DECL
 		}
 
 	{
-#line 8 "ej11.l"
+#line 8 "Once.l"
 
 
 #line 672 "lex.yy.c"
@@ -727,7 +727,7 @@ do_action:	/* This label is used only to access EOF actions. */
 
 case 1:
 YY_RULE_SETUP
-#line 10 "ej11.l"
+#line 10 "Once.l"
 {
             long decimal = strtol(yytext, NULL, 2);
             printf("Binario: %-15s  Decimal: %ld\n", yytext, decimal);
@@ -736,17 +736,17 @@ YY_RULE_SETUP
 case 2:
 /* rule 2 can match eol */
 YY_RULE_SETUP
-#line 15 "ej11.l"
+#line 15 "Once.l"
 { /* Ignorar espacios y saltos de línea */ }
 	YY_BREAK
 case 3:
 YY_RULE_SETUP
-#line 16 "ej11.l"
+#line 16 "Once.l"
 { printf("Token no valido: %s\n", yytext); }
 	YY_BREAK
 case 4:
 YY_RULE_SETUP
-#line 18 "ej11.l"
+#line 18 "Once.l"
 ECHO;
 	YY_BREAK
 #line 753 "lex.yy.c"
@@ -1754,7 +1754,7 @@ void yyfree (void * ptr )
 
 #define YYTABLES_NAME "yytables"
 
-#line 18 "ej11.l"
+#line 18 "Once.l"
 
 
 int main(int argc, char *argv[]) {

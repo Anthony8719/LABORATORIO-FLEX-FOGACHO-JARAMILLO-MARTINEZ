@@ -12,7 +12,7 @@
                         printf("Hexadecimal: %-12s  Decimal: %ld\n", yytext, decimal);
                     }
 
-[ \t\n]+            { /* Ignorar espacios y saltos de línea */ }
+[ \t\r\n]+            { /* Ignorar espacios y saltos de línea */ }
 .                   { printf("Token no valido: %s\n", yytext); }
 
 %%
